@@ -21,9 +21,9 @@ export default {
     InfoParentItem
   },
   computed: {
-		allParents() {
-			return this.$store.getters.allParents
-		},
+    allParents() {
+      return this.$store.getters.allParents
+    },
 	},
 }
 </script>
