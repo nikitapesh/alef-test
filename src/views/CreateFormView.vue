@@ -87,7 +87,7 @@ export default {
     allParents() {
       return this.$store.getters.allParents
     },
-	},
+  },
 }
 </script>
 
